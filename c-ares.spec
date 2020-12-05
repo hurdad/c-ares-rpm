@@ -1,3 +1,4 @@
+%global debug_package %{nil}
 %global use_cmake 1
 
 Summary: A library that performs asynchronous DNS operations
